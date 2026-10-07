@@ -1,0 +1,11 @@
+* ab3ed07 +conflicts.pdf
+*   2482fbd Merge conflict fixed
+|\  
+| * 5bd3f6f +some string
+* | 0106f7c +some string 2
+|/  
+* e9fee9f +3d string(alternative)
+* 8b4da74 +4th string
+* ba1686b +3d string
+* fc8485e fix md
+* e942171 Initial commit
